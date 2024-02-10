@@ -45,6 +45,6 @@ python3 number_guessing_game.py
 
 ## Extra Credit
 
-1. [ ] \[+10\] After the program ends, ask the user if they want to play again. If they do, start the game over. If they don't, print out "Goodbye!" and end the program.
+1. [x] \[+10\] After the program ends, ask the user if they want to play again. If they do, start the game over. If they don't, print out "Goodbye!" and end the program.
 2. [ ] \[+20\] Draw the Pseudocode of the Program and upload it to your GitHub repository.
 
